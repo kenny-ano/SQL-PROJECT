@@ -79,7 +79,7 @@ FROM CustomerTB
 ORDER BY LastName ASC, FirstName ASC;
 </pre>
 
-![image alt](
+![image alt](https://github.com/kenny-ano/SQL-PROJECT/blob/b6fde3f6a0985fe3a0d022fc783ce82ec6fa128e/sq2.PNG)
 
 3. *Show every order together with the customer’s full name, the product name, quantity, unit price, total price (quantity × unit price), and order date.*
 <pre>
