@@ -55,4 +55,3 @@ VALUES
 </pre>
 
 ![image alt](https://github.com/kenny-ano/SQL-PROJECT/blob/e62b40059d8ac64e1b54b8ad94af07a621d1c18d/sq1.PNG)
-
